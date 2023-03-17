@@ -16,7 +16,7 @@ http://15.1.5.22:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458157/794693757.png" group-title="Kolkata Channel",  Zee Bangla Cinema
 http://starshare.live:8080/live/Ridwanul7/6699447733/410.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308192.jpeg" group-title="Kolkata Channel", Colors Bangla HD
-http://172.16.50.2:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=50995f4bef9f71954fb66e7fbe790b9b913496f0-3c1242e16a45b87a9ddbda085b846ece-1674041165-1674030365
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745806419.png" group-title="Kolkata Channel", Sony Aath
 https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243776/748777464.jpeg" group-title="Kolkata Channel", Sananda TV
@@ -66,7 +66,7 @@ http://103.113.103.249:18001/play/a02b/index.m3u8
 #EXTINF: -1 group-title="Hindi Channel", Sonic
 http://ghostiptv.vip:80/777444/777444/46041
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745759769.jpeg" group-title="Bangla Channel", Ananda TV
-http://172.16.50.2:8082/anandotv/tracks-v1a1/mono.m3u8?token=79d54bdefc2d74e446cbb7fe6da7d44fc13b5546-74cd9b31e428f285fd72c80f90e57e81-1674072906-1674062106
+http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/d03a46e0-98a5-11ed-b394-edfa661b4e75/4241135/747218031.jpg" group-title="Bangla Channel", Asian TV
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/d03a46e0-98a5-11ed-b394-edfa661b4e75/4241135/747158052.png" group-title="Bangla Channel", ATN Bangla
@@ -76,7 +76,7 @@ http://172.16.50.2:8082/Atn-News/tracks-v1a1/mono.m3u8?token=6be971d855551a4edaa
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/748747459.jpeg" group-title="Bangla Channel", Bangla TV
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/746456608.png" group-title="Bangla Channel", Banglavision
-http://172.16.50.2:8082/BanglaVision/tracks-v1a1/mono.m3u8?token=b8122d25f80e6b30f541d6b4586769b57fcf8d7b-606a78a77065fe6ef584c5c343c5a045-1674150226-1674139426
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/746456667.jpg" group-title="Bangla Channel", Boishakhi
 http://15.1.5.14:8082/Boishakhi/tracks-v1a1/mono.m3u8?token=f73d9d78b0dfc7c7c29e903612cc9f2413b4fca5-f7626bcaa54c70d1ec40567a735e6088-1674150389-1674139589
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/748747453.jpeg" group-title="Bangla Channel", BOISHAKHI PLUS
@@ -84,7 +84,7 @@ https://bd.jagobd.com:444/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/748747456.jpeg" group-title="Bangla Channel", BTV World
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308216.png" group-title="Bangla Channel", Channel 24
-http://172.16.50.2:8082/Channel24/tracks-v1a1/mono.m3u8?token=b5244d2971a98cdcda2132a8b5934f76e5d42a88-b15e9639d8d33413fc267b97fae79b83-1674042749-1674031949
+http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452803/793185111.png" group-title="Bangla Channel", Channel I
 http://15.1.5.18:8082/Channel-i/tracks-v1a1/mono.m3u8?token=122d3da9473169835642a24d83fdcd6c612f6715-af43b6ae073e1d9c9d587194219040b8-1678565313-1678554513
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308210.png" group-title="Bangla Channel", DBC News
@@ -104,7 +104,7 @@ http://172.16.50.2:8082/Ekushey-TV/tracks-v1a1/mono.m3u8?token=0fa7ed3b70e66e058
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308209.png" group-title="Bangla Channel", GTV
 http://172.16.50.2:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308213.png" group-title="Bangla Channel", Independent TV
-http://172.16.50.2:8082/Independent-Tv/tracks-v1a1/mono.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/748765461.png" group-title="Bangla Channel", JagoNews24 TV
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308219.jpg" group-title="Bangla Channel", Maasranga Television
@@ -124,15 +124,15 @@ http://iptvbd.jagobd.com:1931/live-orgin/nantv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/748765466.png" group-title="Bangla Channel", Nandan TV
 https://web.nandansyst.com/hls/nandan.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308215.png" group-title="Bangla Channel", News 24
-http://172.16.50.2:8082/News24bd/tracks-v1a1/mono.m3u8?token=73a0402d05d1d731c1beef2a41180242bc592d63-c9fc64596f94a69f12b7c8dc929512a1-1674042722-1674031922
+http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308218.jpg" group-title="Bangla Channel", NTV
 http://172.16.50.2:8082/Ntv/tracks-v1a1/mono.m3u8?token=e96b512e0873adac11ab6bc7d6a6f45bce79b3f9-dc1b247db04b34f899dc077acb57607d-1674043408-1674032608
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308220.png" group-title="Bangla Channel", RTV
-http://172.16.50.2:8082/RTV/tracks-v1a1/mono.m3u8?token=f1d277e7dd931adf02b2f51816c946084298a57d-9ae3364cdcbee956b49a99011055f1d5-1674072484-1674061684
+http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/749043182.png" group-title="Bangla Channel", SATV
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308214.png" group-title="Bangla Channel", Somoy TV
-http://172.16.50.2:8082/Somoy-TV/tracks-v1a1/mono.m3u8?token=9494da8938c75a42ded165be8bbf7f5d25b038ba-e8f68f9d13e97fc7a5a2ff4337cf3bb7-1674042695-1674031895
+http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/748766000.jpeg" group-title="Bangla Channel", Voice TV
 http://iptvbd.jagobd.com:1931/live-orgin/voicetv.stream/chunks.m3u8
 #EXTINF: -1 group-title="Bangla Channel", DesheBideshe TV
