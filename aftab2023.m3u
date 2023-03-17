@@ -26,7 +26,7 @@ https://web.nandansyst.com/hls/nandan_mid/index.m3u8
 #EXTINF: -1 group-title="Kolkata Channel", Sun Bangla
 http://15.1.5.18:8082/sunbangla/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308189.jpeg" group-title="Kolkata Channel", Star Jalsha HD
-http://50.7.69.66/starjalsha/index.m3u8
+http://starshare.live:8080/live/Ridwanul7/6699447733/198.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308188.jpg" group-title="Kolkata Channel", Zee Bangla HD
 http://starshare.live:8080/live/Ridwanul7/6699447733/435.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Hindi Channel", Sony Max HD
