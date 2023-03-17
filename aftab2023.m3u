@@ -40,7 +40,7 @@ https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Hindi Channel", Sony Pix
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308195.png" group-title="Hindi Channel", Zee TV HD
-http://172.16.50.2:8082/Zee-Hd/tracks-v1a1/mono.m3u8?token=f4297cd35c71013cd1139a05f15b441d2cf6fe69-7efd06ace568702ded9982f1486e1fff-1674041353-1674030553
+http://starshare.live:8080/live/Ridwanul7/6699447733/161.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308194.jpg" group-title="Hindi Channel", Zee Cinema HD
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/793164952.png" group-title="Hindi Channel", B4U Movies
@@ -56,7 +56,7 @@ http://103.113.103.249:18001/play/a018/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458159/793337520.png" group-title="Hindi Channel", MBC Bollywood HD
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/746543545.jpg" group-title="Hindi Channel", Colors
-http://172.16.50.2:8082/colorsindia/tracks-v1a1/mono.m3u8?token=eba4f403f3bfbb9adc1469fb35efd33b24797609-ab0b813e342baa1ef167c1f5794bfc1b-1674228493-1674217693
+http://starshare.live:8080/live/Ridwanul7/6699447733/219.ts
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Hindi Channel", Sony WAH
 https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/793164818.png" group-title="Hindi Channel", Star Plus
@@ -72,7 +72,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/d03a46e0-98a5-11ed-b394-edfa661b4e75/4241135/747158052.png" group-title="Bangla Channel", ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308212.gif" group-title="Bangla Channel", ATN News
-http://172.16.50.2:8082/Atn-News/tracks-v1a1/mono.m3u8?token=6be971d855551a4edaa9daf5cfb0cb5748aa9746-9bf4e1d5a241924e472c15447d236176-1674042604-1674031804
+http://starshare.live:8080/live/Ridwanul7/6699447733/427.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/748747459.jpeg" group-title="Bangla Channel", Bangla TV
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/746456608.png" group-title="Bangla Channel", Banglavision
@@ -98,7 +98,7 @@ http://ipm.oncast.me:1932/iplived/iptvdeshebideshe.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/748765459.png" group-title="Bangla Channel", Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308211.png" group-title="Bangla Channel", Ekattor TV
-http://172.16.50.2:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=0bf2205503891e4a1ea86d1ba218119a8d8a033e-2621f757ef3344a2badaa11c10f80b3f-1674042567-1674031767
+http://starshare.live:8080/live/Ridwanul7/6699447733/428.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308217.png" group-title="Bangla Channel", Ekushey TV
 http://172.16.50.2:8082/Ekushey-TV/tracks-v1a1/mono.m3u8?token=0fa7ed3b70e66e0581ca10a14cd2e95122092c20-b30e165fef4eb70368451d3dcc712c66-1674043348-1674032548
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308209.png" group-title="Bangla Channel", GTV
@@ -118,7 +118,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/746456681.png" group-title="Bangla Channel", MyTV HD
 http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308190.png" group-title="Bangla Channel", Nagorik
-http://streamcdn1.dflix.live:8081/roarzone/59/chunks.m3u8?nimblesessionid=53835507&wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDIzIDg6MzA6NDMgQU0maGFzaF92YWx1ZT1IOWZNOTRocDJaUTd1YWxSYXpLRTJRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTU=
+http://15.1.5.18:8082/nagorik-tv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/748765465.jpeg" group-title="Bangla Channel", NAN TV
 http://iptvbd.jagobd.com:1931/live-orgin/nantv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/748765466.png" group-title="Bangla Channel", Nandan TV
@@ -126,7 +126,7 @@ https://web.nandansyst.com/hls/nandan.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308215.png" group-title="Bangla Channel", News 24
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308218.jpg" group-title="Bangla Channel", NTV
-http://172.16.50.2:8082/Ntv/tracks-v1a1/mono.m3u8?token=e96b512e0873adac11ab6bc7d6a6f45bce79b3f9-dc1b247db04b34f899dc077acb57607d-1674043408-1674032608
+http://15.1.5.10:8082/Ntv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308220.png" group-title="Bangla Channel", RTV
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/749043182.png" group-title="Bangla Channel", SATV
@@ -138,7 +138,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/voicetv.stream/chunks.m3u8
 #EXTINF: -1 group-title="Bangla Channel", DesheBideshe TV
 http://ipm.oncast.me:1932/iplived/iptvdeshebideshe.stream/playlist.m3u8
 #EXTINF: -1 group-title="Bangla Channel", Channel 9
-http://streamcdn1.dflix.live:8081/roarzone/4/chunks.m3u8?nimblesessionid=53834793&wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDIzIDg6MjE6MDMgQU0maGFzaF92YWx1ZT1qcUN2ajB6TTlKSmhpbWtvTjVGdmFnPT0mdmFsaWRtaW51dGVzPTMwJmlkPTU=
+http://starshare.live:8080/live/Ridwanul7/6699447733/434.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232879/745308202.jpg" group-title="Music Channel", Zoom Music
 http://15.1.5.14:8082/Zoom/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232879/745308204.png" group-title="Music Channel", 9XM
@@ -154,11 +154,11 @@ http://103.113.103.249:18001/play/a02m/index.m3u8
 #EXTINF: -1 group-title="Music Channel", ATN Music
 http://bd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/745308205.jpeg" group-title="Documentary And News", Nat Geo
-http://ott.global-telecom.eu:25461/gigatv3356/KOfyJgRq7T/505
+http://starshare.live:8080/live/Ridwanul7/6699447733/7342.ts
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Documentary And News", Sony BBC Earth HD
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/745308208.png" group-title="Documentary And News", Al Jazeera HD
-http://172.16.50.2:8082/Aljazeera/tracks-v1a1/mono.m3u8?token=2c997f215eea048512fa3ca7f0aec7a85a0f48cd-e4a6bfa45cc1b99c0c3a259fe3915cbd-1674042317-1674031517
+http://15.1.5.18:8082/Aljazeera/tracks-v1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/745806418.png" group-title="Documentary And News", Animal Planet
 http://15.1.5.22:8082/animalplanent/tracks-v1a1/mono.m3u8?token=31762a4af719c2919c832b9cfadb33f5021365ee-24c4f87f8132d42befd060180623a1b1-1674074750-1674063950
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/746456691.png" group-title="Documentary And News", CGTN
@@ -182,15 +182,15 @@ https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports Channel", Sony TEN 5 HD
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4234491/745773162.png" group-title="Sports Channel", Tsports
-http://103.109.56.116/live/skyfeed1019/index.m3u8
+https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4234491/745773847.jpeg" group-title="Sports Channel", Star Sports 1
-http://ghostiptv.vip:80/777444/777444/45795
+http://15.1.5.22:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4234491/745783837.jpeg" group-title="Sports Channel", Star Sports 2
-http://ghostiptv.vip:80/777444/777444/45796
+http://15.1.5.14:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458163/794412346.jpeg" group-title="Sports Channel", Star Sports 3
 http://ghostiptv.vip:80/777444/777444/45797
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4234491/745783838.jpeg" group-title="Sports Channel", Star Select 1
-http://103.109.56.116/live/skyfeed1008/index.m3u8
+http://15.1.5.10:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4234491/745785582.jpeg" group-title="Sports Channel", Star Select 2
 http://15.1.5.18:8082/select2/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452806/792716833.jpeg" group-title="Sports Channel", Viaplay
