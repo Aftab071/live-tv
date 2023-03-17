@@ -7,8 +7,6 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
 #EXTINF: -1 tvg-chno="151" group-title="IPTV by Aftab", Test Channel
 https://livesportsclub.me/starxlive/index.m3u8
-#EXTINF: -1 group-title="IPTV by Aftab", Hawa
-https://drive.google.com/u/0/uc?id=1SVNmNWmZjEeJ29xNBHodNgIOHXnqwB1i&export=download
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308226.jpg" group-title="Kolkata Channel", Zee Bangla
 http://15.1.5.18:8082/zee-bangla/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308227.jpeg" group-title="Kolkata Channel", Star Jalsha
