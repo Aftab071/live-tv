@@ -47,8 +47,8 @@ http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8?token=test
 http://42.200.67.163:8090/play/a0nb
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/792450786.png" group-title="Hindi Channel", Star Gold
 http://ghostiptv.vip:80/777444/777444/45806
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308193.jpg" group-title="Hindi Channel", Nick Hindi
-http://172.16.50.2:8082/nike/tracks-v1a1/mono.m3u8?token=8f09f0091789c262d16cdae342c5fd450bdcfd49-3b5219ff31e756951d9ce515a6b88ef3-1674072209-1674061409
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308193.jpg" group-title="Hindi Channel", Nick
+http://streamcdn1.dflix.live:8081/roarzone/55/chunks.m3u8?nimblesessionid=53839766&wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDIzIDk6MzU6MzggQU0maGFzaF92YWx1ZT1CaDVNVjFROVJsQWZBZitXc2RybGJRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTU=
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Hindi Channel", Sony YAY
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308201.jpg" group-title="Hindi Channel", &Pictures HD
