@@ -102,7 +102,7 @@ http://starshare.live:8080/live/Ridwanul7/6699447733/428.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308217.png" group-title="Bangla Channel", Ekushey TV
 http://172.16.50.2:8082/Ekushey-TV/tracks-v1a1/mono.m3u8?token=0fa7ed3b70e66e0581ca10a14cd2e95122092c20-b30e165fef4eb70368451d3dcc712c66-1674043348-1674032548
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308209.png" group-title="Bangla Channel", GTV
-http://172.16.50.2:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308213.png" group-title="Bangla Channel", Independent TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/748765461.png" group-title="Bangla Channel", JagoNews24 TV
