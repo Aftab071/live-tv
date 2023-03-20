@@ -120,11 +120,11 @@ http://starshare.live:8080/live/Ridwanul7/6699447733/411.ts
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Hindi Channel", Sony Max HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Hindi Channel", Sony MAX2
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+https://sksportslive.tk/jiox/streams/67db8a322e304fdfbe6702b44f55db63/6.m3u8?usfAuth=mMiWm2yWy2fIogq4mJa1owu0nZLIntHHmMeXnwiZndGWnZDLyZaZyI0Tlte2nZKZmZKWnZi&retry=no
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Hindi Channel", Sony Sab HD
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Hindi Channel", Sony Entertainment
-http://15.1.5.18:8082/SonyTVHD/tracks-v1a1/mono.m3u8
+https://sksportslive.tk/jiox/streams/37b81c5319622c8b2f6b732512c551c7/6.m3u8?usfAuth=odm3ytuZyZi3nZK5ogm1yJHMmJbHogvImwuWoge2y2m2zge3mdyYmc0Tlte2nZKZmZK2mZK
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Hindi Channel", Sony Pix
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308195.png" group-title="Hindi Channel", Zee TV HD
@@ -150,7 +150,7 @@ http://103.113.103.249:18001/play/a02b/index.m3u8
 #EXTINF: -1 group-title="Hindi Channel", &TV
 http://starshare.live:8080/live/Ridwanul7/6699447733/9369.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308193.jpg" group-title="Kid's Zone", Nick
-http://172.16.50.2:8082/nike/tracks-v1a1/mono.m3u8?token=3bd0b802ad5b8a8b20deec9baceb2ba01a66596d-fc0526d06757f4897bc01c56a45dfd13-1679346351-1679335551
+https://sksportslive.tk/jiox/streams/97d3e047b3f388c4bcc0244f4ca884ce/6.m3u8?usfAuth=ywq2yJnImMnKyZfMndHMnZq3mtu0y2q4mZzMngq1ode5ntLImZm3zs0Tlte2nZKZmZKYmZC&retry=no
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kid's Zone", Sony YAY
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491104/799773548.png" group-title="Kid's Zone", Sonic
