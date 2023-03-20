@@ -130,7 +130,7 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308195.png" group-title="Hindi Channel", Zee TV HD
 http://starshare.live:8080/live/Ridwanul7/6699447733/161.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308194.jpg" group-title="Hindi Channel", Zee Cinema HD
-http://172.16.50.2:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=a6d353542965e49d03ef9ad9088beb4d3ad45f31-a80693b55114008057ca62cfe15fa417-1679346450-1679335650
+https://sksportslive.tk/jiox/streams/d0992a66051c2e3464112b5e324dba25/Zee_Cinema_HD_MOB-audio_98835_eng=98800-video=1173600.m3u8?usfAuth=odzKmJLJnZvKytLImJGYzJi2mduYodCYndHJmMnKodbJnZLMmdG5yY0Tlte2nZKZmZC1odG
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/793164952.png" group-title="Hindi Channel", B4U Movies
 http://42.200.67.163:8090/play/a0nb
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/792450786.png" group-title="Hindi Channel", Star Gold
