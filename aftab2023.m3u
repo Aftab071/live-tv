@@ -16,7 +16,7 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308226.jpg" group-title="Kolkata Channel", Zee Bangla
 http://15.1.5.18:8082/zee-bangla/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308227.jpeg" group-title="Kolkata Channel", Star Jalsha
-http://streamcdn1.dflix.live:8081/roarzone/30/chunks.m3u8?nimblesessionid=54218826&wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIzIDQ6NDg6MTUgUE0maGFzaF92YWx1ZT04QVJpbzlZQjQ5T2xNL01JUFdnN3hBPT0mdmFsaWRtaW51dGVzPTMwJmlkPTU=
+http://172.16.50.2:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=b528992b8280da10ce97ca9d6a6596107e67c10f-8aa1e991a09248b2ea03eac8525f9d1f-1679346498-1679335698
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452801/792451882.png" group-title="Kolkata Channel", Jalsha Movies
 http://15.1.5.22:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458157/794693757.png" group-title="Kolkata Channel", Zee Bangla Cinema
@@ -130,7 +130,7 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308195.png" group-title="Hindi Channel", Zee TV HD
 http://starshare.live:8080/live/Ridwanul7/6699447733/161.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308194.jpg" group-title="Hindi Channel", Zee Cinema HD
-http://50.7.69.66/ZEECINEMAHD/index.m3u8
+http://172.16.50.2:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=a6d353542965e49d03ef9ad9088beb4d3ad45f31-a80693b55114008057ca62cfe15fa417-1679346450-1679335650
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/793164952.png" group-title="Hindi Channel", B4U Movies
 http://42.200.67.163:8090/play/a0nb
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/792450786.png" group-title="Hindi Channel", Star Gold
@@ -150,7 +150,7 @@ http://103.113.103.249:18001/play/a02b/index.m3u8
 #EXTINF: -1 group-title="Hindi Channel", &TV
 http://starshare.live:8080/live/Ridwanul7/6699447733/9369.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308193.jpg" group-title="Kid's Zone", Nick
-http://streamcdn1.dflix.live:8081/roarzone/55/chunks.m3u8?nimblesessionid=53839766&wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDIzIDk6MzU6MzggQU0maGFzaF92YWx1ZT1CaDVNVjFROVJsQWZBZitXc2RybGJRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTU=
+http://172.16.50.2:8082/nike/tracks-v1a1/mono.m3u8?token=3bd0b802ad5b8a8b20deec9baceb2ba01a66596d-fc0526d06757f4897bc01c56a45dfd13-1679346351-1679335551
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kid's Zone", Sony YAY
 https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491104/799773548.png" group-title="Kid's Zone", Sonic
