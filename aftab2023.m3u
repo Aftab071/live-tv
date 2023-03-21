@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773623.jpeg" group-title="Live Match", Live Sport 1
 https://prod-
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773623.jpeg" group-title="Live Match", Live Sports 2
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773623.jpeg" group-title="Live Match", Live Sport 2
 https://sports-.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773623.jpeg" group-title="Live Match", Live Sport 3
 http://acks-v1a1/mono.m3u8
