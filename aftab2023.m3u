@@ -34,7 +34,7 @@ http://15.1.5.18:8082/sunbangla/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308189.jpeg" group-title="Kolkata Channel", Star Jalsha HD
 http://starshare.live:8080/live/Ridwanul7/6699447733/198.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308188.jpg" group-title="Kolkata Channel", Zee Bangla HD
-https://sksportslive.tk/jiox/streams/8a050331f46bd8fb5196a61c0e06ce52/Zee_Bangla_HD_MOB-audio_98835_eng=98800-video=1173600.m3u8?usfAuth=zdnLm2fKnJeYotfHn2vHyZi0yZGWzJe5ngvJyZu4mgnMyJLJyMnImY0Tlte2nZKZmZC3ndi
+https://sksportslive.tk/jiox/streams/8a050331f46bd8fb5196a61c0e06ce52/Zee_Bangla_HD_MOB-audio_98835_eng=98800-video=2906400.m3u8?usfAuth=y2u3zJnMzJK4nwjHzMvJowzJzMm3yMfHyZi5nMvIm2q1nJeXyJm1yI0Tlte2nZKZode1oti
 #EXTINF: -1 group-title="Kolkata Channel", Meem TV NY
 http://starshare.live:8080/live/Ridwanul7/6699447733/3806.ts
 #EXTINF: -1 group-title="Kolkata Channel", Enterr10 Bangla
@@ -130,7 +130,7 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308195.png" group-title="Hindi Channel", Zee TV HD
 http://starshare.live:8080/live/Ridwanul7/6699447733/161.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308194.jpg" group-title="Hindi Channel", Zee Cinema HD
-https://sksportslive.tk/jiox/streams/d0992a66051c2e3464112b5e324dba25/Zee_Cinema_HD_MOB-audio_98835_eng=98800-video=1173600.m3u8?usfAuth=odzKmJLJnZvKytLImJGYzJi2mduYodCYndHJmMnKodbJnZLMmdG5yY0Tlte2nZKZmZC1odG
+https://sksportslive.tk/jiox/streams/d0992a66051c2e3464112b5e324dba25/Zee_Cinema_HD_MOB-audio_98835_eng=98800-video=1173600.m3u8?usfAuth=mtrHn2eZnJG4mZaXn2u5mMyYmdzImgnLzdHModbHm2nHmtjIyJG5zI0Tlte2nZKZode4nJe&retry=no
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/793164952.png" group-title="Hindi Channel", B4U Movies
 http://42.200.67.163:8090/play/a0nb
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/792450786.png" group-title="Hindi Channel", Star Gold
