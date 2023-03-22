@@ -1,9 +1,9 @@
 #EXTM3U 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/dff9f9b0-c738-11ed-a224-6b81ad449a40/4508162/803100250.jpg" group-title="Live Match", Bangladesh vs Irland 3rd ODI (Tsports)
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/dff9f9b0-c738-11ed-a224-6b81ad449a40/4508162/803100250.jpg" group-title="Live Match", Bangladesh vs Ireland 3rd ODI (Tsports)
 http://starshare.live:8080/live/Ridwanul7/6699447733/130714.ts
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/dff9f9b0-c738-11ed-a224-6b81ad449a40/4508162/803100250.jpg" group-title="Live Match", Bangladesh vs Irland 3rd ODI (GTV)
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/dff9f9b0-c738-11ed-a224-6b81ad449a40/4508162/803100250.jpg" group-title="Live Match", Bangladesh vs Ireland 3rd ODI (GTV)
 http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8?token=ea281f379ec1b29360311dccecc3177cf46b2126-2beefc760c07118ac9b0958a8c5a0643-1679522306-1679511506
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/dff9f9b0-c738-11ed-a224-6b81ad449a40/4508162/803100250.jpg" group-title="Live Match", Bangladesh vs Irland 3rd ODI Backup (Tsports)
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/dff9f9b0-c738-11ed-a224-6b81ad449a40/4508162/803100250.jpg" group-title="Live Match", Bangladesh vs Ireland 3rd ODI Backup (Tsports)
 http://172.16.50.2:8082/T-Sports/tracks-v1a1/mono.m3u8?token=d066fe5add626ad22d1038db2c008bd6a9e8fe7f-506e45429f6a3b7471b0a9dc2b3a8e88-1679522342-1679511542
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773624.jpeg" group-title="Live Match", Live Sport 4
 https//:ct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
