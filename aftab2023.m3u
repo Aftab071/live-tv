@@ -5,8 +5,8 @@ http://starshare.live:8080/live/Ridwanul7/6699447733/130714.ts
 http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8?token=ea281f379ec1b29360311dccecc3177cf46b2126-2beefc760c07118ac9b0958a8c5a0643-1679522306-1679511506
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/dff9f9b0-c738-11ed-a224-6b81ad449a40/4508162/803100250.jpg" group-title="Live Match", Bangladesh vs Ireland 3rd ODI Backup (Tsports)
 http://172.16.50.2:8082/T-Sports/tracks-v1a1/mono.m3u8?token=e77820587715e5f8e92fcd9483581acd0a1893fb-f47cfdb0f2eca6c0c7c2cb955291bff9-1679564032-1679553232
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773624.jpeg" group-title="Live Match", Live Sport 4
-https//:ct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/dff9f9b0-c738-11ed-a224-6b81ad449a40/4508162/803286754.jpg" group-title="Live Match", Zim vs Ned (Fancode)
+https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/KQY9_KRyFKxdb2R72XFv55SEeghz9DrCVyfgl2lTC8K3yc5DWXt6jf_EBt9Hxhhmm2tVad4T6ZMhRl410bvLIg/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773625.jpeg" group-title="Live Match", Live Match 5
 https://starxlive/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773621.jpeg" group-title="Live Match", Live Match 6
