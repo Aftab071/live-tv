@@ -5,8 +5,8 @@ http://733/130714.ts
 http://15.1.5.c07118ac9b0958a8c5a0643-1679522306-1679511506
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773625.jpeg" group-title="Live Match" group-title="Live Match", live Match 3
 http://103.109.56.116/live9/index.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/dff9f9b0-c738-11ed-a224-6b81ad449a40/4508162/803286754.jpg" group-title="Live Match", Zim vs Ned (Fancode)
-https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/KQY9_KRyFKxdb2R72XFv55SEeghz9DrCVyfgl2lTC8K3yc5DWXt6jf_EBt9Hxhhmm2tVad4T6ZMhRl410bvLIg/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/dff9f9b0-c738-11ed-a224-6b81ad449a40/4508162/803286754.jpg" group-title="Live Match", live Match 4
+https://prod-ency.m3u8?type=live
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773625.jpeg" group-title="Live Match", Live Match 5
 https://starxlive/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773621.jpeg" group-title="Live Match", Live Match 6
