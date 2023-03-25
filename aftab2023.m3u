@@ -34,7 +34,7 @@ http://15.1.5.18:8082/sunbangla/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308189.jpeg" group-title="Kolkata Channel", Star Jalsha HD
 http://epg.protv.cc:80/play/Live.php?mac=00:1A:79:B7:CD:49&stream=225777&extension=ts&play_token=UKg7PHsC06
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308188.jpg" group-title="Kolkata Channel", Zee Bangla HD
-https://sksportsLive.tk/jiox/streams/8a050331f46bd8fb5196a61c0e06ce52/Zee_Bangla_HD_MOB-audio_98835_eng=98800-video=1173600.m3u8?usfAuth=zdfIzJCWntm1ody1odK2ndDJzJuWowy3odG0mZHKowu5ytrLy2m2yI0Tlte2nZK0ote3odu
+http://jiotv.its-nayeemparvez.ml:3500/getm3u8/1977/master.m3u8
 #EXTINF: -1 tvg-logo="https://img-cdn.curl.pk/channels_icon/90076756551.png" group-title="Kolkata Channel", Meem TV NY
 http://starshare.Live:8080/Live/Ridwanul7/6699447733/3806.ts
 #EXTINF: -1 tvg-logo="https://img-cdn.curl.pk/jio_icon/58671875621.png" group-title="Kolkata Channel", Enterr10 Bangla
