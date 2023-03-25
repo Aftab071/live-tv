@@ -155,8 +155,8 @@ http://jiotv.its-nayeemparvez.ml:3500/getm3u8/545/master.m3u8
 http://jiotv.its-nayeemparvez.ml:3500/getm3u8/872/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491104/799773548.png" group-title="Kid's Zone", Sonic
 http://jiotv.its-nayeemparvez.ml:3500/getm3u8/815/master.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491104/799774596.jpeg" group-title="Kid's Zone", Kids Active Toons
-http://starshare.live:8080/live/Ridwanul7/6699447733/108873.ts
+#EXTINF: -1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kid's Zone", POGO
+http://jiotv.its-nayeemparvez.ml:3500/getm3u8/559/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232879/745308202.jpg" group-title="Music Channel", Zoom Music
 http://jiotv.its-nayeemparvez.ml:3500/getm3u8/592/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232879/745308204.png" group-title="Music Channel", 9XM
@@ -194,7 +194,7 @@ http://ip2121.com:8081/live/cnn/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458162/794693440.png" group-title="Documentary And News", BBC NEWS
 http://ip2121.com:8081/live/bbc/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://pluspng.com/img-png/history-hd-png-historyhd-png-352.png" group-title="Documentary And News", History 18
-https://sksportslive.tk/jiox/streams/683d9010ab3de46a69bdb39e54e13690/6.m3u8?usfAuth=ngyYyJyWzgi4zgvJntDIm2jMmZa0zdG4ndaYn2m3owm0otiWogeZmI0Tlte2nZKZnde2nJi
+http://jiotv.its-nayeemparvez.ml:3500/getm3u8/578/master.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports Channel", Sony TEN 1 HD
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports Channel", Sony  TEN 2 HD
