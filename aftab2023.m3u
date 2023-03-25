@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e18cb670-cb40-11ed-a0b1-23e740d4a3cb/4522268/805566591.jpg" group-title="live Match" group-title="live Match", Brazil vs Morocco
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+http://204.12.247.162:8080/premium134/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773625.jpeg" group-title="live Match" group-title="live Match", live Match 2
 http://15.1.5.c07118ac9b0958a8c5a0643-1679522306-1679511506
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773625.jpeg" group-title="live Match" group-title="live Match", live Match 3
