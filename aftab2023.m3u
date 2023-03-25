@@ -40,7 +40,7 @@ http://starshare.live:8080/live/Ridwanul7/6699447733/3806.ts
 #EXTINF: -1 tvg-logo="https://img-cdn.curl.pk/jio_icon/58671875621.png" group-title="Kolkata Channel", Enterr10 Bangla
 https://enterr10-live.streamready.in/pub-iobanglakp3sff/liveabr/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452803/793185111.png" group-title="Bangla Channel", Channel I
-http://15.1.5.18:8082/Channel-i/tracks-v1a1/mono.m3u8
+http://tempx.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308216.png" group-title="Bangla Channel", Channel 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308210.png" group-title="Bangla Channel", DBC News
@@ -120,7 +120,7 @@ http://starshare.live:8080/live/Ridwanul7/6699447733/411.ts
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Hindi Channel", Sony Max HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Hindi Channel", Sony MAX2
-https://sksportslive.tk/jiox/streams/67db8a322e304fdfbe6702b44f55db63/6.m3u8?usfAuth=mMiWm2yWy2fIogq4mJa1owu0nZLIntHHmMeXnwiZndGWnZDLyZaZyI0Tlte2nZKZmZKWnZi&retry=no
+http://jiotv.its-nayeemparvez.ml:3500/getm3u8/483/master.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Hindi Channel", Sony Sab HD
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Hindi Channel", Sony Entertainment
@@ -130,7 +130,7 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308195.png" group-title="Hindi Channel", Zee TV HD
 http://starshare.live:8080/live/Ridwanul7/6699447733/161.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308194.jpg" group-title="Hindi Channel", Zee Cinema HD
-http://15.1.5.18:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+http://jiotv.its-nayeemparvez.ml:3500/getm3u8/165/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/793164952.png" group-title="Hindi Channel", B4U Movies
 http://42.200.67.163:8090/play/a0nb
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/792450786.png" group-title="Hindi Channel", Star Gold
