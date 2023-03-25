@@ -88,9 +88,9 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308220.png" group-title="Bangla Channel", RTV
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308217.png" group-title="Bangla Channel", Ekushey TV
-http://172.16.50.2:8082/Ekushey-TV/tracks-v1a1/mono.m3u8
+https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308209.png" group-title="Bangla Channel", GTV
-http://15.1.5.14:8082/1live/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308219.jpg" group-title="Bangla Channel", Maasranga Television
 http://15.1.5.22:8082/maasranga/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/748791210.jpeg" group-title="Bangla Channel", Mathri Bhumi TV
@@ -130,7 +130,7 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308195.png" group-title="Hindi Channel", Zee TV HD
 http://starshare.live:8080/live/Ridwanul7/6699447733/161.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308194.jpg" group-title="Hindi Channel", Zee Cinema HD
-https://sksportslive.tk/jiox/streams/d0992a66051c2e3464112b5e324dba25/Zee_Cinema_HD_MOB-audio_98835_eng=98800-video=1173600.m3u8?usfAuth=mtrHn2eZnJG4mZaXn2u5mMyYmdzImgnLzdHModbHm2nHmtjIyJG5zI0Tlte2nZKZode4nJe&retry=no
+http://15.1.5.18:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/793164952.png" group-title="Hindi Channel", B4U Movies
 http://42.200.67.163:8090/play/a0nb
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/792450786.png" group-title="Hindi Channel", Star Gold
@@ -206,7 +206,7 @@ https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports Channel", Sony TEN 5 HD
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4234491/745773162.png" group-title="Sports Channel", Tsports
-http://103.109.56.116/live/skyfeed1019/index.m3u8
+https://live.tsports.com/live/live_01_720/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4234491/745773847.jpeg" group-title="Sports Channel", Star Sports 1
 http://15.1.5.22:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4234491/745783837.jpeg" group-title="Sports Channel", Star Sports 2
@@ -238,6 +238,6 @@ http://starshare.live:8080/live/Ridwanul7/6699447733/23565.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491102/799775277.png" group-title="Sports Channel", Super Sports Cricket
 http://starshare.live:8080/live/Ridwanul7/6699447733/2496.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308209.png" group-title="Sports Channel", GTV
-http://15.1.5.14:8082/1live/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243775/747755514.jpeg" group-title="Sports Channel", Eurosports
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
