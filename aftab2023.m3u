@@ -1,10 +1,10 @@
 #EXTM3U 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/e18cb670-cb40-11ed-a0b1-23e740d4a3cb/4522268/805566591.jpg" group-title="live Match" group-title="live Match", Bangladesh vs Ireland 2nd T20 (Fancode)
-https://hotstarauto-join-us-on-telegram-streamkingliveo.pages.dev/fancode.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773625.jpeg" group-title="live Match" group-title="live Match", Bangladesh vs Ireland 2nd T20 (Tsports)
-http://10.90.90.114:8081/thunderbd/102/chunks.m3u8?nimblesessionid=2168995&wmsAuthSign=c2VydmVyX3RpbWU9My8yOS8yMDIzIDEwOjMwOjEwIEFNJmhhc2hfdmFsdWU9YTdGS2w2bi9laTJ3YWx4YUp4K1RXdz09JnZhbGlkbWludXRlcz02MCZpZD01
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773625.jpeg" group-title="live Match" group-title="live Match", Bangladesh vs Ireland 2nd T20 (GTV)
-http://10.90.90.114:8081/thunderbd/1/chunks.m3u8?nimblesessionid=2169323&wmsAuthSign=c2VydmVyX3RpbWU9My8yOS8yMDIzIDEwOjMwOjU4IEFNJmhhc2hfdmFsdWU9WTdMM3dYMmx0ZVJOUDgwL3pMOWRZQT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773625.jpeg" group-title="live Match" group-title="live Match", live Match 1
+https://s.dev/fancode.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773625.jpeg" group-title="live Match" group-title="live Match", Live Match 2
+http://10.pZD01
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773625.jpeg" group-title="live Match" group-title="live Match", Live Match 3
+http://ZpZD01
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773625.jpeg" group-title="live Match", Live Match 4
 https://prod-ency.m3u8?type=live
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773625.jpeg" group-title="live Match", Live Match 5
@@ -16,7 +16,7 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308226.jpg" group-title="Kolkata Channel", Zee Bangla
 http://15.1.5.18:8082/zee-bangla/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308227.jpeg" group-title="Kolkata Channel", Star Jalsha
-http://10.90.90.114:8081/thunderbd/30/chunks.m3u8?nimblesessionid=2070611&wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIzIDQ6NTg6MzAgUE0maGFzaF92YWx1ZT1ZeW9KampuckZDVDFZMytuRGtqQkZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://asiantv4you.com:80/B37aXnKEBa/FTjXYVQaGZ/12060
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452801/792451882.png" group-title="Kolkata Channel", Jalsha Movies
 http://15.1.5.22:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458157/794693757.png" group-title="Kolkata Channel", Zee Bangla Cinema
@@ -34,7 +34,7 @@ http://15.1.5.18:8082/sunbangla/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308189.jpeg" group-title="Kolkata Channel", Star Jalsha HD
 http://epg.protv.cc:80/play/live.php?mac=00:1A:79:B7:CD:49&stream=225777&extension=ts&play_token=UKg7PHsC06
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308188.jpg" group-title="Kolkata Channel", Zee Bangla HD
-http://jiotv.its-nayeemparvez.ml:3500/getm3u8/1977/master.m3u8
+http://asiantv4you.com:80/B37aXnKEBa/FTjXYVQaGZ/10224
 #EXTINF: -1 tvg-logo="https://img-cdn.curl.pk/channels_icon/90076756551.png" group-title="Kolkata Channel", Meem TV NY
 http://starshare.live:8080/live/Ridwanul7/6699447733/3806.ts
 #EXTINF: -1 tvg-logo="https://img-cdn.curl.pk/jio_icon/58671875621.png" group-title="Kolkata Channel", Enterr10 Bangla
