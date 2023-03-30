@@ -136,7 +136,7 @@ http://asiantv4you.com:80/B37aXnKEBa/FTjXYVQaGZ/653
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/792450786.png" group-title="Hindi Channel", Star Gold
 http://15.1.5.22:8082/star-gold/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308201.jpg" group-title="Hindi Channel", &Pictures HD
-http://103.113.103.249:18001/play/a018/index.m3u8
+http://asiantv4you.com:80/B37aXnKEBa/FTjXYVQaGZ/2478
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458159/793337520.png" group-title="Hindi Channel", MBC Bollywood HD
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/746543545.jpg" group-title="Hindi Channel", Colors
@@ -148,7 +148,7 @@ http://15.1.5.22:8082/star-plus/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/793174986.jpeg" group-title="Hindi Channel", B4U KADAK
 http://103.113.103.249:18001/play/a02b/index.m3u8
 #EXTINF: -1 group-title="Hindi Channel", &TV
-http://starshare.live:8080/live/Ridwanul7/6699447733/9369.ts
+http://asiantv4you.com:80/B37aXnKEBa/FTjXYVQaGZ/2490
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308193.jpg" group-title="Kid's Zone", Nick
 http://jiotv.its-nayeemparvez.ml:3500/getm3u8/545/master.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kid's Zone", Sony YAY
@@ -166,17 +166,17 @@ http://15.1.5.10:8082/GaanBangla/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232879/745786818.jpeg" group-title="Music Channel", Bangla Talkies
 http://15.1.5.10:8082/BANGLA-TALKIES/tracks-v1a1/mono.m3u8?token=ed34fe904daba77c701c35a311fc945dd540442c-dc330bde98b2240d2e0df55f1874355a-1674073990-1674063190
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music Channel", B4U Music
-http://103.113.103.249:18001/play/a02o/index.m3u8
+http://asiantv4you.com:80/B37aXnKEBa/FTjXYVQaGZ/13193
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/4b/78/ab/4b78ab7fb06511a598b3cabd4813d1d0.png" group-title="Music Channel", MTV Beats
 http://xtv.ooo:8080/880569/999120/66273
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491100/799773592.jpeg" group-title="Music Channel", ATN Music
 http://bd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music Channel", 9X Jalwa
-http://starshare.live:8080/live/Ridwanul7/6699447733/9057.ts
+http://asiantv4you.com:80/B37aXnKEBa/FTjXYVQaGZ/26081
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491100/799791763.jpg" group-title="Music Channel", Music Active Masala
 http://starshare.live:8080/live/Ridwanul7/6699447733/52495.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/745308205.jpeg" group-title="Documentary And News", Nat Geo
-http://xtv.ooo:8080/880569/999120/206285
+http://asiantv4you.com:80/B37aXnKEBa/FTjXYVQaGZ/7254
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Documentary And News", Sony BBC Earth HD
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/745308208.png" group-title="Documentary And News", Al Jazeera HD
@@ -237,7 +237,5 @@ http://163.172.221.223:90/bt1/index.m3u8
 http://163.172.221.223:90/bt2/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491102/799775277.png" group-title="Sports Channel", Super Sports Cricket
 http://starshare.live:8080/live/Ridwanul7/6699447733/2496.ts
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308209.png" group-title="Sports Channel", GTV
-http://15.1.5.14:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243775/747755514.jpeg" group-title="Sports Channel", Eurosports
-http://59.103.245.153:8000/play/a04y/index.m3u8
+http://asiantv4you.com:80/B37aXnKEBa/FTjXYVQaGZ/542
