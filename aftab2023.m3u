@@ -50,7 +50,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/deshtv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745759769.jpeg" group-title="Bangla Channel", Ananda TV
 http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/d03a46e0-98a5-11ed-b394-edfa661b4e75/4241135/747218031.jpg" group-title="Bangla Channel", Asian TV
-http://xtv.ooo:8080/880569/999120/245908
+http://tv.zaintv.net:80/7dR7ivpRYP/AhZsdvdh67/100265
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/d03a46e0-98a5-11ed-b394-edfa661b4e75/4241135/747158052.png" group-title="Bangla Channel", ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308212.gif" group-title="Bangla Channel", ATN News
@@ -110,9 +110,9 @@ http://15.1.5.10:8082/Ntv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491099/799773584.jpeg" group-title="Bangla Channel", DesheBideshe TV
 http://ipm.oncast.me:1932/iplived/iptvdeshebideshe.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458160/798123879.jpg" group-title="Bangla Channel", Channel 9
-http://localtv.roarzone.info:8081/roarzone/4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIzIDc6NTc6MjAgUE0maGFzaF92YWx1ZT1GVi8rdnAvS3NsZHRCc05lNjRSTyt3PT0mdmFsaWRtaW51dGVzPTUmaWQ9NQ==
+http://tv.zaintv.net:80/7dR7ivpRYP/AhZsdvdh67/100275
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491099/799788239.png" group-title="Bangla Channel", Bijoy TV
-http://xtv.ooo:8080/880569/999120/245946
+http://tv.zaintv.net:80/7dR7ivpRYP/AhZsdvdh67/100270
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491099/799788242.png" group-title="Bangla Channel", Nexus TV
 http://xtv.ooo:8080/880569/999120/245949
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Hindi Channel", Sony Max HD
@@ -130,7 +130,7 @@ http://15.1.5.18:8082/zee-tv-hd/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308194.jpg" group-title="Hindi Channel", Zee Cinema HD
 http://jiotv.its-nayeemparvez.ml:3500/getm3u8/165/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/793164952.png" group-title="Hindi Channel", B4U Movies
-http://asiantv4you.com:80/B37aXnKEBa/FTjXYVQaGZ/653
+http://tv.zaintv.net:80/7dR7ivpRYP/AhZsdvdh67/56213
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/792450786.png" group-title="Hindi Channel", Star Gold
 http://15.1.5.22:8082/star-gold/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308201.jpg" group-title="Hindi Channel", &Pictures HD
@@ -166,11 +166,11 @@ http://15.1.5.10:8082/BANGLA-TALKIES/tracks-v1a1/mono.m3u8?token=ed34fe904daba77
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music Channel", B4U Music
 http://asiantv4you.com:80/B37aXnKEBa/FTjXYVQaGZ/13193
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/4b/78/ab/4b78ab7fb06511a598b3cabd4813d1d0.png" group-title="Music Channel", MTV Beats
-http://xtv.ooo:8080/880569/999120/66273
+http://tv.zaintv.net:80/7dR7ivpRYP/AhZsdvdh67/56288
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491100/799773592.jpeg" group-title="Music Channel", ATN Music
 http://bd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music Channel", 9X Jalwa
-http://asiantv4you.com:80/B37aXnKEBa/FTjXYVQaGZ/26081
+http://tv.zaintv.net:80/7dR7ivpRYP/AhZsdvdh67/56296
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491100/799791763.jpg" group-title="Music Channel", Music Active Masala
 http://starshare.live:8080/live/Ridwanul7/6699447733/52495.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/745308205.jpeg" group-title="Documentary And News", Nat Geo
@@ -222,7 +222,7 @@ http://tv.zaintv.net:80/7dR7ivpRYP/AhZsdvdh67/108276
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452806/792918897.png" group-title="Sports Channel", PTV Sports
 http://180.178.188.152:8000/play/a075
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458163/793337588.jpeg" group-title="Sports Channel", Sky Sports (Premier League)
-http://dunyaiptv.de:80/LT34KBBEBxV/TDmYdgz6CPGm/161665
+http://tv.zaintv.net:80/7dR7ivpRYP/AhZsdvdh67/85595
 #EXTINF: -1 tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Sports Channel", Willow Cricket HD
 http://tv.zaintv.net:80/7dR7ivpRYP/AhZsdvdh67/91910
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458163/793337590.png" group-title="Sports Channel", ESPN
@@ -234,6 +234,6 @@ http://163.172.221.223:90/bt1/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544149/809757691.png" group-title="Sports Channel", BT Sports 2
 http://163.172.221.223:90/bt2/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491102/799775277.png" group-title="Sports Channel", Super Sports Cricket
-http://starshare.live:8080/live/Ridwanul7/6699447733/2496.ts
+http://tv.zaintv.net:80/7dR7ivpRYP/AhZsdvdh67/141073
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243775/747755514.jpeg" group-title="Sports Channel", Eurosports
 http://180.178.188.152:8000/play/a00r
