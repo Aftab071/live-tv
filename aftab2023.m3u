@@ -164,7 +164,7 @@ http://15.1.5.10:8082/GaanBangla/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232879/745786818.jpeg" group-title="Music Channel", Bangla Talkies
 http://15.1.5.10:8082/BANGLA-TALKIES/tracks-v1a1/mono.m3u8?token=ed34fe904daba77c701c35a311fc945dd540442c-dc330bde98b2240d2e0df55f1874355a-1674073990-1674063190
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music Channel", B4U Music
-http://asiantv4you.com:80/B37aXnKEBa/FTjXYVQaGZ/13193
+http://tv.zaintv.net:80/7dR7ivpRYP/AhZsdvdh67/56212
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/4b/78/ab/4b78ab7fb06511a598b3cabd4813d1d0.png" group-title="Music Channel", MTV Beats
 http://tv.zaintv.net:80/7dR7ivpRYP/AhZsdvdh67/56288
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491100/799773592.jpeg" group-title="Music Channel", ATN Music
@@ -174,7 +174,7 @@ http://tv.zaintv.net:80/7dR7ivpRYP/AhZsdvdh67/56296
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491100/799791763.jpg" group-title="Music Channel", Music Active Masala
 http://starshare.live:8080/live/Ridwanul7/6699447733/52495.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/745308205.jpeg" group-title="Documentary And News", Nat Geo
-http://asiantv4you.com:80/B37aXnKEBa/FTjXYVQaGZ/7254
+http://15.1.5.22:8082/natgeo-wild/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Documentary And News", Sony BBC Earth HD
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232880/745308208.png" group-title="Documentary And News", Al Jazeera HD
