@@ -206,7 +206,7 @@ https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports Channel", Sony TEN 5 HD
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4234491/745773162.png" group-title="Sports Channel", Tsports
-http://localtv.roarzone.info:8081/roarzone/102/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIzIDg6MDI6MzggUE0maGFzaF92YWx1ZT0wMVYrSldQT2s4aDBmbytTZ3Rmc1NRPT0mdmFsaWRtaW51dGVzPTUmaWQ9NQ==
+http://163.47.158.62:9990/tsport/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4234491/745773847.jpeg" group-title="Sports Channel", Star Sports 1
 http://15.1.5.22:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4234491/745783837.jpeg" group-title="Sports Channel", Star Sports 2
