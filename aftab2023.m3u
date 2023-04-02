@@ -16,7 +16,7 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308226.jpg" group-title="Kolkata Channel", Zee Bangla
 http://15.1.5.18:8082/zee-bangla/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308227.jpeg" group-title="Kolkata Channel", Star Jalsha
-http://tv.zaintv.net:80/7dR7ivpRYP/AhZsdvdh67/100310
+https://vplayer.ryuu.fun/playlist/03a362f8432f9c98e7e0849d20281e66/c0e95593c2c2282da190be8ab3c87481/dkJWcnVvSXJ2b1ZxS2JRNk0yLytndz09OjoIuacQSXXenHw1%2FtGoa5q8/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452801/792451882.png" group-title="Kolkata Channel", Jalsha Movies
 http://15.1.5.22:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458157/794693757.png" group-title="Kolkata Channel", Zee Bangla Cinema
