@@ -1,6 +1,6 @@
 #EXTM3U 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757575.jpg" group-title="Live Match", Star Sports 1 (Hindi)
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/7567
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757575.jpg" group-title="Live Match", IPL (Hindi)
+https://prod-sports-hin-gm.jiocinema.com/hls/live/2099003/uhd_akamai_ctv_avc_hin_ipl08/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757575.jpg" group-title="Live Match", Sky Sports HD
 http://appsbiswas.live:8880/aftab965/9594r676tTZW/30
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757576.jpg" group-title="Live Match", Astro Cricket HD
@@ -128,7 +128,7 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308195.png" group-title="Hindi Channel", Zee TV HD
 http://15.1.5.18:8082/zee-tv-hd/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308194.jpg" group-title="Hindi Channel", Zee Cinema HD
-http://jiotv.its-nayeemparvez.ml:3500/getm3u8/165/master.m3u8
+http://appsbiswas.live:8880/aftab965/9594r676tTZW/62
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/793164952.png" group-title="Hindi Channel", B4U Movies
 http://tv.zaintv.net:80/7dR7ivpRYP/AhZsdvdh67/56213
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/792450786.png" group-title="Hindi Channel", Star Gold
@@ -224,7 +224,7 @@ http://180.178.188.152:8000/play/a075
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458163/793337588.jpeg" group-title="Sports Channel", Sky Sports (Premier League)
 http://appsbiswas.live:8880/aftab965/9594r676tTZW/3218
 #EXTINF: -1 tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Sports Channel", Willow Cricket HD
-http://tv.zaintv.net:80/7dR7ivpRYP/AhZsdvdh67/91910
+http://appsbiswas.live:8880/aftab965/9594r676tTZW/6543
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458163/793337590.png" group-title="Sports Channel", ESPN
 http://191.102.90.97:8000/play/a08b/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458163/795215122.jpeg" group-title="Sports Channel", Sky Sports Cricket
