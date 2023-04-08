@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757575.jpg" group-title="Live Match", IPL (Hindi)
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757575.jpg" group-title="Live Match", IPL (Hindi 4K)
 https://prod-sports-hin-gm.jiocinema.com/hls/live/2100320/uhd_akamai_ctv_avc_hin_ipl11/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757575.jpg" group-title="Live Match", Sky Sports HD
 http://appsbiswas.live:8880/aftab965/9594r676tTZW/30
