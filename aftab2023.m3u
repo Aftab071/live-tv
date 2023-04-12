@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757575.jpg" group-title="Live Match", IPL (Bangla)
-https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/oIE5KlQPm-rRYocQXq62JjdHovRfXwLreU5mQ6EpPxBFMmyrCEf8JAg0S6RPiaTuuo8cbAk_JzJssIqBPzKDmg/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/LuZ78dxBZGcYwJRCT0KBO8TunNkpUWaI-DTY3ICuxTbi_r5cper4RK_xaOPW3L62hdNoLN0aqQj9O1bhODcZLA/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757575.jpg" group-title="Live Match", IPL (Hindi)
 https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/oIE5KlQPm-rRYocQXq62JjdHovRfXwLreU5mQ6EpPxBFMmyrCEf8JAg0S6RPiaTuuo8cbAk_JzJssIqBPzKDmg/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757576.jpg" group-title="Live Match", Astro Cricket HD
