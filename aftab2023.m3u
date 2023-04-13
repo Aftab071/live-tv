@@ -4,9 +4,9 @@ https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/LuZ78dxBZGcY
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757575.jpg" group-title="Live Match", IPL (Hindi)
 https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/oIE5KlQPm-rRYocQXq62JjdHovRfXwLreU5mQ6EpPxBFMmyrCEf8JAg0S6RPiaTuuo8cbAk_JzJssIqBPzKDmg/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757576.jpg" group-title="Live Match", Astro Cricket HD
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/3207
+http://starshare.live:8080/live/tanveer2159175/003332159175/149012.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b3cb9560-cfd7-11ed-b880-f77b8cbb758f/4544141/809757576.jpg" group-title="Live Match", Willow Cricket HD
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/6543
+http://starshare.live:8080/live/tanveer2159175/003332159175/149005.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773625.jpeg" group-title="Live Match", Live Match 5
 https://starxlive/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491103/799773621.jpeg" group-title="Live Match", Live Match 6
@@ -14,13 +14,13 @@ https://starxlive/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243775/748791131.jpeg" group-title="IPTV by Aftab", Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308226.jpg" group-title="Kolkata Channel", Zee Bangla
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/3353
+http://starshare.live:8080/live/tanveer2159175/003332159175/23305.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308227.jpeg" group-title="Kolkata Channel", Star Jalsha
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/5057
+http://starshare.live:8080/live/tanveer2159175/003332159175/8540.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452801/792451882.png" group-title="Kolkata Channel", Jalsha Movies
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/28
+http://starshare.live:8080/live/tanveer2159175/003332159175/425.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458157/794693757.png" group-title="Kolkata Channel", Zee Bangla Cinema
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/7024
+http://starshare.live:8080/live/tanveer2159175/003332159175/49615.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308192.jpeg" group-title="Kolkata Channel", Colors Bangla HD
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745806419.png" group-title="Kolkata Channel", Sony Aath
@@ -30,13 +30,13 @@ http://bdip.ddns.net:1895/live/iptv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243776/748790990.png" group-title="Kolkata Channel", NANDAN Official
 https://web.nandansyst.com/hls/nandan_mid/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458158/794703916.png" group-title="Kolkata Channel", Sun Bangla
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/35
+http://starshare.live:8080/live/tanveer2159175/003332159175/3753.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308189.jpeg" group-title="Kolkata Channel", Star Jalsha HD
 http://appsbiswas.live:8880/aftab965/9594r676tTZW/2931
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308188.jpg" group-title="Kolkata Channel", Zee Bangla HD
 http://appsbiswas.live:8880/aftab965/9594r676tTZW/27
 #EXTINF: -1 tvg-logo="https://img-cdn.curl.pk/channels_icon/90076756551.png" group-title="Kolkata Channel", Meem TV NY
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/5648
+http://starshare.live:8080/live/tanveer2159175/003332159175/3806.ts
 #EXTINF: -1 tvg-logo="https://img-cdn.curl.pk/jio_icon/58671875621.png" group-title="Kolkata Channel", Enterr10 Bangla
 https://enterr10-live.streamready.in/pub-iobanglakp3sff/liveabr/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452803/793185111.png" group-title="Bangla Channel", Channel I
@@ -48,13 +48,13 @@ http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="Desh TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/747755550.jpg" group-title="Bangla Channel", Desh TV
 http://iptvbd.jagobd.com:1931/live-orgin/deshtv.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745759769.jpeg" group-title="Bangla Channel", Ananda TV
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/173
+http://starshare.live:8080/live/tanveer2159175/003332159175/399.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/d03a46e0-98a5-11ed-b394-edfa661b4e75/4241135/747218031.jpg" group-title="Bangla Channel", Asian TV
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/172
+http://starshare.live:8080/live/tanveer2159175/003332159175/430.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/d03a46e0-98a5-11ed-b394-edfa661b4e75/4241135/747158052.png" group-title="Bangla Channel", ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308212.gif" group-title="Bangla Channel", ATN News
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/6965
+http://starshare.live:8080/live/tanveer2159175/003332159175/427.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/748747459.jpeg" group-title="Bangla Channel", Bangla TV
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/748765461.png" group-title="Bangla Channel", JagoNews24 TV
@@ -62,13 +62,13 @@ http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/746456608.png" group-title="Bangla Channel", Banglavision
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308211.png" group-title="Bangla Channel", Ekattor TV
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/2927
+http://starshare.live:8080/live/tanveer2159175/003332159175/428.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308213.png" group-title="Bangla Channel", Independent TV
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/749043182.png" group-title="Bangla Channel", SATV
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308214.png" group-title="Bangla Channel", Somoy TV
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/152
+http://starshare.live:8080/live/tanveer2159175/003332159175/422.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308215.png" group-title="Bangla Channel", News 24
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/748766000.jpeg" group-title="Bangla Channel", Voice TV
@@ -90,23 +90,23 @@ http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308217.png" group-title="Bangla Channel", Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308209.png" group-title="Bangla Channel", GTV
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/153
+http://starshare.live:8080/live/tanveer2159175/003332159175/767.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308219.jpg" group-title="Bangla Channel", Maasranga Television
 http://appsbiswas.live:8880/aftab965/9594r676tTZW/168
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/c74e5c20-9907-11ed-a084-09ccdce542a1/4243778/748791210.jpeg" group-title="Bangla Channel", Mathri Bhumi TV
 http://tv.anwarlinkisp.com:1895/live/bangladesh/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308223.png" group-title="Bangla Channel", Mohona TV
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/170
+http://starshare.live:8080/live/tanveer2159175/003332159175/397.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/746456681.png" group-title="Bangla Channel", MyTV HD
 http://tempx.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308190.png" group-title="Bangla Channel", Nagorik
 http://tv.pixhub.live/hls/nagoriktv.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232878/745308218.jpg" group-title="Bangla Channel", NTV
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/6969
+http://starshare.live:8080/live/tanveer2159175/003332159175/424.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/be16a940-c5bf-11ed-aa99-f1f477ecda76/4491099/799773584.jpeg" group-title="Bangla Channel", DesheBideshe TV
 http://ipm.oncast.me:1932/iplived/iptvdeshebideshe.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458160/798123879.jpg" group-title="Bangla Channel", Channel 9
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/154
+http://starshare.live:8080/live/tanveer2159175/003332159175/434.ts
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Hindi Channel", Sony Max HD
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Hindi Channel", Sony MAX2
@@ -118,19 +118,19 @@ https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Hindi Channel", Sony Pix
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308195.png" group-title="Hindi Channel", Zee TV HD
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/116
+http://starshare.live:8080/live/tanveer2159175/003332159175/9371.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308194.jpg" group-title="Hindi Channel", Zee Cinema HD
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/62
+http://starshare.live:8080/live/tanveer2159175/003332159175/230.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/793164952.png" group-title="Hindi Channel", B4U Movies
-http://tv.zaintv.net:80/7dR7ivpRYP/AhZsdvdh67/56213
+http://starshare.live:8080/live/tanveer2159175/003332159175/968.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/792450786.png" group-title="Hindi Channel", Star Gold
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/193
+http://starshare.live:8080/live/tanveer2159175/003332159175/194.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308201.jpg" group-title="Hindi Channel", &Pictures HD
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/195
+http://starshare.live:8080/live/tanveer2159175/003332159175/231.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458159/793337520.png" group-title="Hindi Channel", MBC Bollywood HD
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/746543545.jpg" group-title="Hindi Channel", Colors
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/118
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/746543545.jpg" group-title="Hindi Channel", Colors HD
+http://starshare.live:8080/live/tanveer2159175/003332159175/195.ts
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Hindi Channel", Sony WAH
 http://appsbiswas.live:8880/aftab965/9594r676tTZW/7026
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/793164818.png" group-title="Hindi Channel", Star Plus
