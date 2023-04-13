@@ -18,9 +18,9 @@ http://appsbiswas.live:8880/aftab965/9594r676tTZW/3353
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308227.jpeg" group-title="Kolkata Channel", Star Jalsha
 http://appsbiswas.live:8880/aftab965/9594r676tTZW/5057
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452801/792451882.png" group-title="Kolkata Channel", Jalsha Movies
-http://tv.pixhub.live/hls/jalshamovies.m3u8
+http://appsbiswas.live:8880/aftab965/9594r676tTZW/28
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458157/794693757.png" group-title="Kolkata Channel", Zee Bangla Cinema
-http://tv.pixhub.live/hls/zee-bangla-cinema.m3u8
+http://appsbiswas.live:8880/aftab965/9594r676tTZW/7024
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745308192.jpeg" group-title="Kolkata Channel", Colors Bangla HD
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232876/745806419.png" group-title="Kolkata Channel", Sony Aath
@@ -118,23 +118,23 @@ https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Hindi Channel", Sony Pix
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308195.png" group-title="Hindi Channel", Zee TV HD
-http://tv.pixhub.live/hls/zeetv.m3u8
+http://appsbiswas.live:8880/aftab965/9594r676tTZW/116
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308194.jpg" group-title="Hindi Channel", Zee Cinema HD
 http://appsbiswas.live:8880/aftab965/9594r676tTZW/62
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/793164952.png" group-title="Hindi Channel", B4U Movies
 http://tv.zaintv.net:80/7dR7ivpRYP/AhZsdvdh67/56213
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/792450786.png" group-title="Hindi Channel", Star Gold
-http://appsbiswas.live:8880/live/aftab965/9594r676tTZW/4762.m3u8
+http://appsbiswas.live:8880/aftab965/9594r676tTZW/193
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/745308201.jpg" group-title="Hindi Channel", &Pictures HD
-http://appsbiswas.live:8880/live/aftab965/9594r676tTZW/195.m3u8
+http://appsbiswas.live:8880/aftab965/9594r676tTZW/195
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/08b9e680-c056-11ed-b8e9-bd69e010b0b9/4458159/793337520.png" group-title="Hindi Channel", MBC Bollywood HD
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4f0241c0-9719-11ed-b6c6-d70621735811/4232877/746543545.jpg" group-title="Hindi Channel", Colors
-http://tv.pixhub.live/hls/colore-tv-hd.m3u8
+http://appsbiswas.live:8880/aftab965/9594r676tTZW/118
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Hindi Channel", Sony WAH
 http://appsbiswas.live:8880/aftab965/9594r676tTZW/7026
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/793164818.png" group-title="Hindi Channel", Star Plus
-http://tv.pixhub.live/hls/starplus.m3u8
+http://appsbiswas.live:8880/aftab965/9594r676tTZW/114
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ab682790-bf7c-11ed-8c02-c9266a6da5b5/4452802/793174986.jpeg" group-title="Hindi Channel", B4U KADAK
 http://103.113.103.249:18001/play/a02b/index.m3u8
 #EXTINF: -1 group-title="Hindi Channel", &TV
