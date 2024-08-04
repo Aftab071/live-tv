@@ -13,9 +13,11 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gHSSZGNn7rfh8uhtlii0qSs
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangladeshi Channel", RTV
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gKMZYc1jP27u7NJDTSXQyfY/ts
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Bangladeshi channel", Somoy TV
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Bangladeshi Channel", Somoy TV
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLA3LKuRNgt8qGLit8_5RNQ/ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="Bangladeshi Channel", Ekattor TV HD
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJMSEVo7JL8t_4NlhSlI_hc/ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="Bangladeshi Channel", Indipendent TV
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gEcAvYiNWFCg0UYvh3GzKGY/ts
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangladeshi Channel", DBC News
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCHhfjsh352aTrFLGFx0o-A/ts
