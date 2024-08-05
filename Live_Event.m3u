@@ -17,20 +17,20 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gKMZYc1jP27u7NJDTSXQyfY/ts
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUL1AKfua_foATC6f3zcjN1oyZmhFWHp1MCw&s" group-title="Bangladeshi Channel", Somoy TV
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLA3LKuRNgt8qGLit8_5RNQ/ts
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="Bangladeshi Channel", Ekattor TV HD
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJMSEVo7JL8t_4NlhSlI_hc/ts
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="Bangladeshi Channel", Ekuattor TV HD
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=rNkwPH_xIz-Mq_BZFiuQEw&expires=1723065639&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangladeshi Channel", Indipendent TV
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gEcAvYiNWFCg0UYvh3GzKGY/ts
+https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=JJyOnhvlgOz_6fpHpIFrag&expires=1723065574&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangladeshi Channel", DBC News
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCHhfjsh352aTrFLGFx0o-A/ts
+https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=n6__FFPAqfKIenYKIJVwOw&expires=1723066113&user=d477246e9e724f81a011b847457e71c4
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvawCbza6Lz72aKCtmWHHz0CBahxN9qM4tP6Xhy8WIZG40b3LV5wNsp4w&s=10" group-title="Bangladeshi Channel", Channel 24
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJTGorKxrfq-0K95h2jwCps/ts
+https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=8nZa8XOxKtxpSUt-cYi7Ow&expires=1723065544&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF: -1 tvg-logo="https://www.nexusbd.tv/wp-content/uploads/2022/06/logo-nexus.png" group-title="Bangladeshi Channel", Nexus TV
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNw0IG5jXS9oD7sORe7bnBc/ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangladeshi Channel", Ekhon TV
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gF0INC1z_6xvs0HyhpT9j0w/ts
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStezwbsYLBwVuhtAsbVi1BMinQh2YLQxjGos7W_Qg9ydsYlcfFUOaQx5M&s=10" group-title="Bangladeshi Channel", NEWS24
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gP0b4ACIINxtq2R_XKwoL5Y/ts
+https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=PXMFGd8nve7qykXx2pcfrA&expires=1723066331&user=d477246e9e724f81a011b847457e71c4
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi Channel", Gazi TV
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/chunks.m3u8?expires=1723081074&md5=ZP4Lc8uMucXvzs3KsKxUEQ&user=8333f5cef8e441a0abd75ae8344d39d7
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangladeshi Channel", Deepto TV
@@ -46,7 +46,7 @@ https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8?expires=1723080793&
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangladeshi Channel", DBC NEWS
 https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8?expires=1723080875&md5=jD74qnCjYTt1WQKIemp10g&user=8333f5cef8e441a0abd75ae8344d39d7
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/57/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Bangladeshi Channel", Desh TV
-https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8?expires=1723080948&md5=kTqQnXR9G6wKJP2BtMOuqw&user=8333f5cef8e441a0abd75ae8344d39d7
+https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=AJRAsqVj5Lwuh-wVxzRdag&expires=1723066202&user=d477246e9e724f81a011b847457e71c4
 #EXTINF: -1 tvg-logo="https://gaanbangla.tv/wp-content/uploads/2023/12/GB-LOGO.png" group-title="Bangladeshi Channel", Gaan Bangla
 https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8?expires=1723081003&md5=1X52v2NgcxKQHUuDl4aHBQ&user=8333f5cef8e441a0abd75ae8344d39d7
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladeshi Channel", Maasranga
