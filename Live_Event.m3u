@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Kolkata Channel", Zee Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Zee_bangla.png/revision/latest/scale-to-width-down/300?cb=20210509180125" group-title="Kolkata Channel", Star Jalsha HD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Kolkata Channel", Star Jalsha HD
 http://humsab.xyz/IN_JALSHAS/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladeshi Channel", Jamuna TV
-http://113.212.111.246:8080/hls/col12.m3u8
+https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8?expires=1723061432&md5=C-MQScF0vPdZuAmuz2rk4Q&user=811838a63b224e85b02b925b31d0fece
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png" group-title="Bangladeshi Channel", ATN Bangla
 http://tv.cloudcdn.me/live.ts?channelId=81&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGB_eHy7TI4EHWe_DqmJhsmELKe9FsUP69qGlrZrv0SF3AT1z155zQvLU&s=10" group-title="Bangladeshi Channel", Channel I HD
@@ -23,3 +23,7 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gEcAvYiNWFCg0UYvh3GzKGY
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCHhfjsh352aTrFLGFx0o-A/ts
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvawCbza6Lz72aKCtmWHHz0CBahxN9qM4tP6Xhy8WIZG40b3LV5wNsp4w&s=10" group-title="Bangladeshi Channel", Channel 24
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJTGorKxrfq-0K95h2jwCps/ts
+#EXTINF: -1 tvg-logo="https://www.nexusbd.tv/wp-content/uploads/2022/06/logo-nexus.png" group-title="Bangladeshi Channel", Nexus TV
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNw0IG5jXS9oD7sORe7bnBc/ts
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangladeshi Channel", Ekhon TV
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gF0INC1z_6xvs0HyhpT9j0w/ts
