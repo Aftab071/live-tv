@@ -4,56 +4,48 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Kolkata Channel", Star Jalsha HD
 http://humsab.xyz/IN_JALSHAS/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladeshi Channel", Jamuna TV
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDwnjVduSu_VQH9SrNY-YgI/ts
-#EXTINF: -1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladeshi Channel", Jamuna TV Akash
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=0xVvGQZJcOmv2Yvkq6hGvQ&expires=1723065608&user=ef71b837ceef4cd18a6cf7069722d83d
+httphttps://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@JamunaTVbd
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png" group-title="Bangladeshi Channel", ATN Bangla
-http://tv.cloudcdn.me/live.ts?channelId=81&uid=8164&deviceMac=00:1A:79:17:D4:A1
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=5687
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGB_eHy7TI4EHWe_DqmJhsmELKe9FsUP69qGlrZrv0SF3AT1z155zQvLU&s=10" group-title="Bangladeshi Channel", Channel I HD
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gHSSZGNn7rfh8uhtlii0qSs/ts
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="Bangladeshi Channel", Ekushey ETV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangladeshi Channel", RTV
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gKMZYc1jP27u7NJDTSXQyfY/ts
+http://tv.cloudcdn.me/live.ts?channelId=89&uid=13603&deviceMac=00:1A:79:64:B4:A6
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="Bangladeshi Channel", Ekushey TV
+http://176.119.29.52/live.ts?channelId=96&uid=13603&deviceMac=00:1A:79:64:B4:A6
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangladeshi Channel", RTV HD
+http://176.119.29.52/live.ts?channelId=112&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUL1AKfua_foATC6f3zcjN1oyZmhFWHp1MCw&s" group-title="Bangladeshi Channel", Somoy TV
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLA3LKuRNgt8qGLit8_5RNQ/ts
+http://176.119.29.52/live.ts?channelId=115&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="Bangladeshi Channel", Ekuattor TV HD
 https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=rNkwPH_xIz-Mq_BZFiuQEw&expires=1723065639&user=ef71b837ceef4cd18a6cf7069722d83d
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangladeshi Channel", Indipendent TV
-https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=JJyOnhvlgOz_6fpHpIFrag&expires=1723065574&user=ef71b837ceef4cd18a6cf7069722d83d
+http://176.119.29.52:80/live.ts?channelId=99&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangladeshi Channel", DBC News
-https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=n6__FFPAqfKIenYKIJVwOw&expires=1723066113&user=d477246e9e724f81a011b847457e71c4
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvawCbza6Lz72aKCtmWHHz0CBahxN9qM4tP6Xhy8WIZG40b3LV5wNsp4w&s=10" group-title="Bangladeshi Channel", Channel 24
-https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=8nZa8XOxKtxpSUt-cYi7Ow&expires=1723065544&user=ef71b837ceef4cd18a6cf7069722d83d
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@dbcnewstv
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel24_bd.png" group-title="Bangladeshi Channel", Channel 24
+http://176.119.29.52/live.ts?channelId=87&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF: -1 tvg-logo="https://www.nexusbd.tv/wp-content/uploads/2022/06/logo-nexus.png" group-title="Bangladeshi Channel", Nexus TV
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNw0IG5jXS9oD7sORe7bnBc/ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangladeshi Channel", Ekhon TV
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gF0INC1z_6xvs0HyhpT9j0w/ts
+http://176.119.29.52/live.ts?channelId=44161&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStezwbsYLBwVuhtAsbVi1BMinQh2YLQxjGos7W_Qg9ydsYlcfFUOaQx5M&s=10" group-title="Bangladeshi Channel", NEWS24
-https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=PXMFGd8nve7qykXx2pcfrA&expires=1723066331&user=d477246e9e724f81a011b847457e71c4
+http://176.119.29.52/live.ts?channelId=107&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi Channel", Gazi TV
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/chunks.m3u8?expires=1723081074&md5=ZP4Lc8uMucXvzs3KsKxUEQ&user=8333f5cef8e441a0abd75ae8344d39d7
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangladeshi Channel", Deepto TV
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gEzIpWINPhEY1ezirKGzJTI/ts
-#EXTINF: -1 tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png" group-title="Bangladeshi Channel", BTV
-https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8?expires=1723080593&md5=pY6XIu0YgDJsN9veb3TlIQ&user=8333f5cef8e441a0abd75ae8344d39d7
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/62/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Bangladeshi Channel", Bangla TV
-https://edge01.iptv.digijadoo.net/live/bangla_tv/chunks.m3u8?expires=1723080655&md5=W7NcdL0C6WHAv0ug3qxyBw&user=8333f5cef8e441a0abd75ae8344d39d7
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=98
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1160px-Boishakhi_TV_logo.svg.png" group-title="Bangladeshi Channel", Boishakhi TV
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8?expires=1723080721&md5=-WwhGmyokXuY69KqFvCZSA&user=8333f5cef8e441a0abd75ae8344d39d7
+http://176.119.29.52/live.ts?channelId=86&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSgoulVVyoWrWEy_xA2lzOH4pzdzWjxFTzS35EJgdeZwtKd-yhNLmOX8I&s=10" group-title="Bangladeshi Channel", Channel 9
-https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8?expires=1723080793&md5=xNc74DRo--v1YoP_wRYUbg&user=8333f5cef8e441a0abd75ae8344d39d7
+http://176.119.29.52/live.ts?channelId=88&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangladeshi Channel", DBC NEWS
-https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8?expires=1723080875&md5=jD74qnCjYTt1WQKIemp10g&user=8333f5cef8e441a0abd75ae8344d39d7
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/57/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Bangladeshi Channel", Desh TV
-https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=AJRAsqVj5Lwuh-wVxzRdag&expires=1723066202&user=d477246e9e724f81a011b847457e71c4
+http://176.119.29.52/live.ts?channelId=29197&uid=13603&deviceMac=00:1A:79:64:B4:A6
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/desh-tv-bd.png" group-title="Bangladeshi Channel", Desh TV
+http://176.119.29.61:80/live.ts?channelId=93&uid=13603&deviceMac=00:1A:79:64:B4:A6&redir=1
 #EXTINF: -1 tvg-logo="https://gaanbangla.tv/wp-content/uploads/2023/12/GB-LOGO.png" group-title="Bangladeshi Channel", Gaan Bangla
 https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8?expires=1723081003&md5=1X52v2NgcxKQHUuDl4aHBQ&user=8333f5cef8e441a0abd75ae8344d39d7
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangladeshi Channel", Maasranga
-https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8?expires=1723081148&md5=rTGj21BLcVJ-PNP9-eivlg&user=8333f5cef8e441a0abd75ae8344d39d7
+http://tv.cloudcdn.me/live.ts?channelId=101&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxbhGYY9UKXLofkhn4T1ewiXzrbWCeWVcnqw&s" group-title="Bangladeshi Channel", Nagorik TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8?expires=1723081237&md5=eZZpbNu67FrAHm9FYxuS_Q&user=8333f5cef8e441a0abd75ae8344d39d7
+http://xtv.ooo:8080/live/237985/258952/245939.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvQjtfifX46J2InYPqJXD6T5WJuxGkCoO_Qg&usqp=CAU" group-title="Bangladeshi Channel", SATV
-https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8?expires=1723081354&md5=pQO3PyNN5qFfJYGnmL9Ffw&user=8333f5cef8e441a0abd75ae8344d39d7
+http://176.119.29.52/live.ts?channelId=114&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangladeshi Channel", Tsports
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1723081402&md5=66LjiBY_Ce2-GRkBpFtzeQ&user=8333f5cef8e441a0abd75ae8344d39d7
+http://tv.cloudcdn.me/live.ts?channelId=98&uid=13603&deviceMac=00:1A:79:64:B4:A6
